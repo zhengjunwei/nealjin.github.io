@@ -38,11 +38,16 @@
     * [three.js](https://github.com/mrdoob/three.js): JavaScript 3D library
     * [Chart.js](https://github.com/nnnick/Chart.js): Simple HTML5 Charts using the `<canvas>` tag
 
-+ 组件
++ 组件 插件
     * [百度音乐播放内核](https://github.com/Baidu-Music-FE/muplayer)
+    * [video.js](https://github.com/videojs/video.js): open source HTML5 & Flash video player
     * [moment](https://github.com/moment/moment): 日期库
     * [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
     * [select2](https://github.com/ivaynberg/select2): jQuery based replacement for select boxes
+    * [colorbox](https://github.com/jackmoore/colorbox)
+    * [quicksand](https://github.com/razorjack/quicksand): Reorder and filter items with a nice shuffling animation.
+    * [isotope](https://github.com/metafizzy/isotope): Filter & sort magical layouts
+    * [Swipe](https://github.com/thebird/Swipe)
 
 + 知识
     * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks): A huge list of frontend development resources
