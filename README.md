@@ -66,6 +66,7 @@
     * [**store.js**](https://github.com/marcuswestin/store.js): localStorage wrapper for all browsers without using cookies or flash.
     * [localForage](https://github.com/mozilla/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
     * [jquery-cookie](https://github.com/carhartl/jquery-cookie)
+    * [JSON-js](https://github.com/douglascrockford/JSON-js)
 
 + 表单相关
     * [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
