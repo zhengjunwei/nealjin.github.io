@@ -86,6 +86,7 @@
     * [ZeptoScroll](https://github.com/suprMax/ZeptoScroll): Scroll window or DOM nodes with zepto
     * [**masonry**](https://github.com/desandro/masonry): Cascading grid layout library 瀑布流布局
     * [**parallax**](https://github.com/wagerfield/parallax): 视差滚动
+    * [skrollr](https://github.com/Prinzhorn/skrollr): Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. 
     * [jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel)
     * [spin.js](https://github.com/fgnass/spin.js): An animated CSS3 loading spinner with VML fallback for IE.
     * [essage](https://github.com/sofish/essage): a more elegant way to show message
